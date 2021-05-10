@@ -1,0 +1,2 @@
+C:\Users\AMFE\source\repos\WordConunt\Debug\WordCount.exe
+C:\Users\AMFE\source\repos\WordConunt\Debug\WordCount.pdb
